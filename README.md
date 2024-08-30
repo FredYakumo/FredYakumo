@@ -1,6 +1,5 @@
 ## Oh this is just a 1337 fred 👋
 
-<!--
 **FredYakumo/FredYakumo** is a ✨ _special_ ✨ repository because its `README.md` doesn't appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <div align="center">
 <span>  </span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=FredYakumo" /><span>  
